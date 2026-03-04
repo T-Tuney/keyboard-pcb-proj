@@ -4191,7 +4191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-10U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 146.685 90.805 0)
 			(effects
 				(font
@@ -4635,7 +4635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-10U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 132.715 107.315 0)
 			(effects
 				(font
@@ -5230,7 +5230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-10U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 132.715 90.805 0)
 			(effects
 				(font
@@ -5674,7 +5674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-10U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 146.685 107.315 0)
 			(effects
 				(font
