@@ -113,7 +113,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "keyboard-pcb-proj-best-backups/")
 		)
 	)
 	(net 0 "")
